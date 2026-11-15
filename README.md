@@ -75,6 +75,7 @@ While not in the top usage list, these MCP servers are also worth mentioning:
 - **MongoDB** - A Model Context Protocol Server for MongoDB
 - **Notion** - Interact with Notion API
 - **Qdrant** - Vector search engine integration for semantic memory storage and retrieval
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote Streamable HTTP MCP server for searching independent live music venues, tour routes, and booking contacts
 
 ## Resources for MCP
 
